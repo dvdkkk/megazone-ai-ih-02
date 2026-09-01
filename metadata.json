@@ -1,6 +1,6 @@
 {
   "name": "메가존클라우드 부트캠프(신용빈)-AI아키텍트",
-  "description": "Imported from GitHub: dvdkkk/megazone-ai-02000",
+  "description": "K-Digital Training 메가존클라우드 AI CAMPUS 교육생 모집. AI 에이전트, AI 아키텍트, AI 보안, AI 빅데이터 4개 트랙 국비 전액 무료.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
